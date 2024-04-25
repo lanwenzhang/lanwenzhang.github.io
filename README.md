@@ -1,3 +1,3 @@
 # Lanwen Zhang' s Website
 
-This is my [website](https://lanwenzhang.github.io/)
+This is my [homepage](https://lanwenzhang.github.io/)
