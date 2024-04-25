@@ -1,3 +1,3 @@
 # Lanwen Zhang' s Website
 
-This is my <a herf = "https://lanwenzhang.github.io/"> website</a>
+This is my [website](https://lanwenzhang.github.io/)
