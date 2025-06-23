@@ -2866,3 +2866,53 @@ input, select, textarea {
 		margin-bottom: 0.25em;
 	}
 	}
+
+	.nav-name {
+		font-weight: bold;
+		color: #ccc;
+		font-size: 1.2em;
+		line-height: 1;
+		white-space: nowrap;
+		overflow: hidden;
+		text-overflow: ellipsis;
+		max-width: 100%;
+		}
+
+
+		@media screen and (max-width: 480px) {
+		.nav-name {
+			font-size: 1em;
+			max-width: 100px;
+		}
+		}
+
+		@media screen and (max-width: 360px) {
+			.nav-name {
+				display: none;
+		}
+		}
+
+		.nav-name {
+		font-weight: bold;
+		color: #ccc;
+		font-size: 1.2em;
+		line-height: 1.5;
+		white-space: nowrap;
+		overflow: hidden;
+		text-overflow: ellipsis;
+		max-width: 100%;
+		}
+
+		@media screen and (max-width: 480px) {
+		.nav-name {
+			font-size: 1em;
+			max-width: 100px;
+		}
+		}
+
+		@media screen and (max-width: 360px) {
+		.nav-name {
+			display: none;
+		}
+		}
+
