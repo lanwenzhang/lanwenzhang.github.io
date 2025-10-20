@@ -2916,3 +2916,13 @@ input, select, textarea {
 		}
 		}
 
+		#portfolio .row {
+		justify-content: center;
+		}
+
+		@media screen and (min-width: 981px) {
+		#portfolio .row > .col-4 {
+			width: 50%;
+		}
+		}
+
